@@ -2,7 +2,7 @@
 
 ###### 🔭 I'm student from Applied Computer Science, KMUTT
 ###### 🌱 I’m 21 years old
-###### ⚡ I’m currently learning VueJS, ReactJS, Typescrip and Flutter
+###### ⚡ I’m currently learning VueJS, ReactJS, TypeScript and Flutter
 ###### 
 
 <!--

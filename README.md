@@ -2,6 +2,7 @@
 
 ###### 🔭 Frontend Developer
 ###### 🌱 22 years old
+<br/>
 
 
 ## Languages :
@@ -17,7 +18,6 @@
 <img align="left" src="https://www.fluttericon.com/logo_dart_192px.svg" alt="flutter" height="42px"/>
 <img align="left" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="node-express" height="42px"/>
 <img src="https://cdn-media-1.freecodecamp.org/images/-bmCEVFtIS2uUfrccPhudu7cIVRtoBywTexv" height="42px"/>
-<br/>
 
 
 ## Databases :

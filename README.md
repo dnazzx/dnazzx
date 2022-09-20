@@ -8,7 +8,7 @@
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png" alt="javascript" height="42px"/>
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/typescript-3521774-2945272.png" alt="typescript" height="42px"/>
 <img align="left" src="https://static.cdnlogo.com/logos/d/66/dart.svg" alt="dart" height="42px"/>
-<br/>
+<br/><br/><br/>
 
 
 ## Frameworks & Libraries :
@@ -23,7 +23,7 @@
 ## Databases :
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png" alt="firebase" height="42px"/>
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" alt="mongodb" height="42px"/>
-<br/>
+<br/><br/><br/>
 
 
 ## 📈 Stats

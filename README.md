@@ -3,7 +3,7 @@
 ###### 🔭 Frontend Developer
 ###### 🌱 22 years old
 
-### Languages :
+## Languages :
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png" alt="javascript" height="42px"/>
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/typescript-3521774-2945272.png" alt="typescript" height="42px"/>
 <img align="left" src="https://static.cdnlogo.com/logos/d/66/dart.svg" alt="dart" height="42px"/>

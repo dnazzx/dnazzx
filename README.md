@@ -8,4 +8,4 @@
 
 
 ## 📈 Stats
- ![GITHUB_STAT_OVERALL]([![Yuzuinthewinter's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzuinthewinter)](https://github.com/yuzuinthewinter/github-readme-stats))
+[![Yuzuinthewinter's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzuinthewinter)](https://github.com/yuzuinthewinter/github-readme-stats)
